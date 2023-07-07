@@ -157,7 +157,7 @@ textarea.form-control {
   right: 0;
   width: 26%;
   height: 100%;
-  background-color: #a23539;
+  background-color: #0d0c0c;
   overflow-y: auto;
   z-index: 1;
   display: -webkit-box;
@@ -194,7 +194,7 @@ textarea.form-control {
   text-decoration: none;
 }
 
-.design a:hover { color: #99ccff; }
+.design a:hover { color: ##0f0f0f; }
 
 /* <<< Mobile Menu button >>> */
 .navbar-button {
